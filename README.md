@@ -1,15 +1,15 @@
 ## Welcome to Keilly's Git page
 
-You can use the [editor on GitHub](https://github.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-I am a journalism major at lehigh University. 
+
+
+I am a journalism major at Lehigh University. I attended Berks Catholic High School for my freshman and sophomore years of High School and The Hill School for my junior and senior years.
 
 ```markdown
 Syntax highlighted code block
 
-# Hi Im Keilly
+# Header
 ## Header 2
 ### Header 3
 
