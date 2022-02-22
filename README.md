@@ -1,5 +1,5 @@
-## Welcome to Keilly's Git page
-
+## Welcome to Keilly's Git Page
+Keilly Kirkpatrick
 
 
 
@@ -9,7 +9,7 @@ I am a journalism major at Lehigh University. I attended Berks Catholic High Sch
 ```markdown
 Syntax highlighted code block
 
-# Header
+# I love creative writing,
 ## Header 2
 ### Header 3
 
