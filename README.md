@@ -9,7 +9,7 @@ I am a journalism major at Lehigh University. I graduated from the Hill School i
 ```markdown
 Syntax highlighted code block
 
-## Class of 2024
+# Class of 2024
 ## Header 2
 ### Header 3
 
