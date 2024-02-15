@@ -8,7 +8,7 @@ I am a journalism major at Lehigh University. I graduated from the Hill School i
 ![KirkpatrickKeilly](https://github.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/blob/main/keilly%20camera.jpg?raw=true)
 ```markdown
 
-
+[Brown and White](https://thebrownandwhite.com/2023/09/18/asian-studies-faculty-members-start-culturally-inspired-reading-group/)
 ```
 
 
