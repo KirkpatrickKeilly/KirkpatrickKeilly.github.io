@@ -4,7 +4,7 @@ Keilly Kirkpatrick
 
 
 
-I am a journalism major at Lehigh University. I attended Berks Catholic High School for my freshman and sophomore years of High School and The Hill School for my junior and senior years.
+I am a journalism major at Lehigh University. I graduated from the Hill School in Pottstown, Pennsylvania. I love writing, design, film, and photography.
 
 ```markdown
 Syntax highlighted code block
