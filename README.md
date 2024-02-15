@@ -5,7 +5,7 @@
 
 
 I am a journalism major at Lehigh University. I graduated from the Hill School in Pottstown, Pennsylvania. I love writing, design, film, and photography.
-![KirkpatrickKeilly](https://github.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/blob/main/keilly%20camera.jpg)
+![KirkpatrickKeilly](https://github.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/blob/main/keilly%20camera.jpg?raw=true)
 ```markdown
 
 
