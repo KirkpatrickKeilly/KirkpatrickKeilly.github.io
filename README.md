@@ -1,5 +1,5 @@
 ## Welcome to Keilly's Git Page
-Keilly Kirkpatrick
+# Keilly Kirkpatrick
 
 
 
@@ -7,24 +7,9 @@ Keilly Kirkpatrick
 I am a journalism major at Lehigh University. I graduated from the Hill School in Pottstown, Pennsylvania. I love writing, design, film, and photography.
 ![KirkpatrickKeilly](https://github.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/blob/main/keilly%20camera.jpg)
 ```markdown
-Syntax highlighted code block
 
-# Class of 2024
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](www.google.com) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
