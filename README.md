@@ -15,8 +15,3 @@
 [Brown and White](https://thebrownandwhite.com/2023/09/18/asian-studies-faculty-members-start-culturally-inspired-reading-group/)
 <br>
 [Instagram](https://www.instagram.com/keillykirk/)
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
