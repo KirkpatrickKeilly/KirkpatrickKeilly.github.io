@@ -9,7 +9,7 @@ I am a journalism major at Lehigh University. I graduated from the Hill School i
 
 
 [Brown and White](https://thebrownandwhite.com/2023/09/18/asian-studies-faculty-members-start-culturally-inspired-reading-group/)
-
+[Instagram](https://www.instagram.com/keillykirk/)
 
 
 ### Support or Contact
