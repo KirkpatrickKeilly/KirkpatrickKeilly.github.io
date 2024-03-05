@@ -31,6 +31,4 @@ Data was taken from a Pew Research Center survey of 5,733 U.S. adults, conducted
 [Original Article](https://www.pewresearch.org/internet/2024/01/31/americans-social-media-use/)
 <br>
 [Data Source](https://www.pewresearch.org/internet/?attachment_id=30880)
-<br>
-<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk&font=Default&lang=en&initial_zoom=2&height=100%" width="100%" frameborder="0"></iframe>
                                 
