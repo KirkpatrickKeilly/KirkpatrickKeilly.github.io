@@ -32,5 +32,4 @@ Data was taken from a Pew Research Center survey of 5,733 U.S. adults, conducted
 <br>
 [Data Source](https://www.pewresearch.org/internet/?attachment_id=30880)
 <br>
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xn67NM3UTm0d9w73mEv9AD7R6R4xeTdLyNznEJ-l6CA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
                                 
