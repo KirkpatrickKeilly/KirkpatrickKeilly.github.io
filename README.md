@@ -22,7 +22,6 @@
 
 [Data Source](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2023.pdf)
 
-![Most Used Social Media Sites By Americans]
-(https://raw.githubusercontent.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/main/Americans%E2%80%99%20Social%20Media%20Use%20(1).png)
+![Most Used Social Media Sites By Americans](https://github.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/blob/main/Americans%E2%80%99%20Social%20Media%20Use%20(1).png?raw=true)
 
 
