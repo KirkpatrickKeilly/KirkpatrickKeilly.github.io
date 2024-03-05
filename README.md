@@ -27,6 +27,7 @@
 Americans’ Social Media Use by Jeffrey Gottfried
 <br>
 [Original Article](https://www.pewresearch.org/internet/2024/01/31/americans-social-media-use/)
+<br>
 [Data Source](https://www.pewresearch.org/internet/?attachment_id=30880)
 <br>
 Data was taken from a Pew Research Center survey of 5,733 U.S. adults, conducted from May 19 - Sept. 5, 2023. The findings show that YouTube is the most widely used online platform measured in the survey (83% of those surveyed reported using it). YouTube was followed by FaceBook (68% of those surveyed) and Instagram (47%).
