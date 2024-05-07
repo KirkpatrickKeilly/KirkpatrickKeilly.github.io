@@ -38,10 +38,10 @@ Data was taken from a Pew Research Center survey of 5,733 U.S. adults, conducted
 ![Lehigh Enrollment](https://github.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/blob/main/lehighfall2023enroll.png?raw=true)
 <br>
 ![COVID-19 Data Story Response Graduation Year](https://github.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/blob/main/Graduation%20Year%20Responses%20(1).png?raw=true)
-<br>[2019 World's Top 20 Cycling Cities by Wired]
+<br>2019 World's Top 20 Cycling Cities by Wired
 <br>
 <iframe src="https://www.google.com/maps/d/embed?mid=112xwH8kjbYAOKsH_VN0BRdMg37yb3jI&ehbc=2E312F" width="640" height="480"></iframe>
-<br>[2018 Best Live Music Venues in America by Rolling Stone]
+<br>2018 Best Live Music Venues in America by Rolling Stone
 <br>
 <iframe src="https://www.google.com/maps/d/embed?mid=1l3N8rGG5WuQUqmtKhlAQGVHvf8nsDU4&ehbc=2E312F" width="640" height="480"></iframe>
 <br>
