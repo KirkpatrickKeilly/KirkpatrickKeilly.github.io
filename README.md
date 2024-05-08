@@ -21,10 +21,10 @@
 ![What College has the Most Female Enrollment?](https://github.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/blob/main/femaleenroll.png?raw=true)
 
 [Data Source](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2023.pdf)
-
+<br>
+###Americans’ Social Media Use by Jeffrey Gottfried
 ![Most Used Social Media Sites By Americans](https://github.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/blob/main/Americans%E2%80%99%20Social%20Media%20Use%20(1).png?raw=true)
 
-Americans’ Social Media Use by Jeffrey Gottfried
 <br>
 Data was taken from a Pew Research Center survey of 5,733 U.S. adults, conducted from May 19 - Sept. 5, 2023. The findings show that YouTube is the most widely used online platform measured in the survey (83% of those surveyed reported using it). YouTube was followed by FaceBook (68% of those surveyed) and Instagram (47%).
 <br>
