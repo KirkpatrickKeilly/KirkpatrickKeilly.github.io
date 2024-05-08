@@ -32,7 +32,11 @@ Data was taken from a Pew Research Center survey of 5,733 U.S. adults, conducted
 <br>
 [Data Source](https://www.pewresearch.org/internet/?attachment_id=30880)
 <br>
+### Makeup Trends Over the Years
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xn67NM3UTm0d9w73mEv9AD7R6R4xeTdLyNznEJ-l6CA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<br>
+I created this spreadsheet from information I found on Google regarding makeup trends throughout the past century. I found this topic fascinating as beauty standards have changed drastically throughout time.
+[Data Source](https://docs.google.com/spreadsheets/d/1xn67NM3UTm0d9w73mEv9AD7R6R4xeTdLyNznEJ-l6CA/edit?usp=sharing)
 <br>
 
 ![Lehigh Enrollment](https://github.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/blob/main/lehighfall2023enroll.png?raw=true)
