@@ -43,7 +43,6 @@ I created this spreadsheet from information I found on Google regarding makeup t
 ![Lehigh Enrollment](https://github.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/blob/main/lehighfall2023enroll.png?raw=true)
 <br>
 ### Covid-19 Data Story Graduation Year Distribution of Responses by Keilly Kirkpatrick and Jackie Belkin
-<br>
 ![COVID-19 Data Story Response Graduation Year](https://github.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/blob/main/Graduation%20Year%20Responses%20(1).png?raw=true)
 <br>
 This chart was made from data collected by Jackie Belkin and I for our final project. It shows the distribution of grade levels that responded to our survey.
