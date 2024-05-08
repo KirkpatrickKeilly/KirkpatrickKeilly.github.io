@@ -17,7 +17,7 @@
 [Instagram](https://www.instagram.com/keillykirk/)
 
 <br>
-
+### Lehigh University's Female Enrollment Throughout Colleges
 ![What College has the Most Female Enrollment?](https://github.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/blob/main/femaleenroll.png?raw=true)
 
 [Data Source](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2023.pdf)
@@ -32,17 +32,25 @@ Data was taken from a Pew Research Center survey of 5,733 U.S. adults, conducted
 <br>
 [Data Source](https://www.pewresearch.org/internet/?attachment_id=30880)
 <br>
-### Makeup Trends Over the Years
+### Makeup Trends Over the Past Century
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xn67NM3UTm0d9w73mEv9AD7R6R4xeTdLyNznEJ-l6CA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 <br>
 I created this spreadsheet from information I found on Google regarding makeup trends throughout the past century. I found this topic fascinating as beauty standards have changed drastically throughout time.
+<br>
 [Data Source](https://docs.google.com/spreadsheets/d/1xn67NM3UTm0d9w73mEv9AD7R6R4xeTdLyNznEJ-l6CA/edit?usp=sharing)
 <br>
-
+### Lehigh Fall 2023 Enrollment Throughout the Colleges
 ![Lehigh Enrollment](https://github.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/blob/main/lehighfall2023enroll.png?raw=true)
 <br>
+### Covid-19 Data Story Graduation Year Distribution of Responses by Keilly Kirkpatrick and Jackie Belkin
+<br>
 ![COVID-19 Data Story Response Graduation Year](https://github.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/blob/main/Graduation%20Year%20Responses%20(1).png?raw=true)
-<br>2019 World's Top 20 Cycling Cities by Wired
+<br>
+This chart was made from data collected by Jackie Belkin and I for our final project. It shows the distribution of grade levels that responded to our survey.
+<br>
+[Data Source](https://docs.google.com/spreadsheets/d/1eXuZoDKA5iqBJ8hGHnroQ0ZPtU_RXd9cHQSoc1lmuwQ/edit?usp=sharing)
+<br>
+### 2019 World's Top 20 Cycling Cities by Wired
 <br>
 <iframe src="https://www.google.com/maps/d/embed?mid=112xwH8kjbYAOKsH_VN0BRdMg37yb3jI&ehbc=2E312F" width="640" height="480"></iframe>
 <br>2018 Best Live Music Venues in America by Rolling Stone
