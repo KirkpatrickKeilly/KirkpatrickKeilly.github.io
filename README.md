@@ -42,10 +42,14 @@ I created this spreadsheet from information I found on Google regarding makeup t
 ### Lehigh Fall 2023 Enrollment Throughout the Colleges
 ![Lehigh Enrollment](https://github.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/blob/main/lehighfall2023enroll.png?raw=true)
 <br>
+This chart shows enrollment at Lehigh for Fall of 2023 throughout the different colleges. The findings show that Arts and Sciences is the most populated college, while Arts and Engineering is the least.
+<br>
+Data Source: Lehigh University Office of Institutional Research
+<br>
 ### Covid-19 Data Story Graduation Year Distribution of Responses by Keilly Kirkpatrick and Jackie Belkin
 ![COVID-19 Data Story Response Graduation Year](https://github.com/KirkpatrickKeilly/KirkpatrickKeilly.github.io/blob/main/Graduation%20Year%20Responses%20(1).png?raw=true)
 <br>
-This chart was made from data collected by Jackie Belkin and I for our final project. It shows the distribution of grade levels that responded to our survey.
+This chart was made from data collected by Jackie Belkin and I for our final project. It shows the distribution of grade levels that responded to our survey. Seniors and sophomores were the highest percentage of students that answered the survey and freshmen were the lowest.
 <br>
 [Data Source](https://docs.google.com/spreadsheets/d/1eXuZoDKA5iqBJ8hGHnroQ0ZPtU_RXd9cHQSoc1lmuwQ/edit?usp=sharing)
 <br>
